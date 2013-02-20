@@ -1,0 +1,7 @@
+{
+  "name": "lodash",
+  "version": "1.0.1",
+  "main": "./lodash.js",
+  "dependencies": {
+  }
+}
