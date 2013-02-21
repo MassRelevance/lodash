@@ -6,6 +6,7 @@
   },
   "ignore": [
     "build",
+    "build.js",
     "dist",
     "doc",
     "perf",
